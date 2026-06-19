@@ -29,25 +29,11 @@ Day 1 introduced the evolution from “vibe coding” (natural‑language driven
 - Antigravity CLI
 
 
-<img src="Day-01/Ass1-1.jpg" alt="Ass1-1.jpg" width="400" />
-<img src="Day-01/Ass1-2.jpg" alt="Ass1-2.jpg" width="400" />
-<img src="Day-01/Ass1-3.jpg" alt="Ass1-1.jpg" width="400" />
+<img src="Day-01/Ass1-1.jpg" alt="Ass1-1.jpg" width="700" />
+<img src="Day-01/Ass1-2.jpg" alt="Ass1-2.jpg" width="700" />
+<img src="Day-01/Ass1-3.jpg" alt="Ass1-1.jpg" width="700" />
 
-<img src="Day-01/Antigravity.jpg" alt="Antigravity" width="400" />
-<img src="Day-01/Antigravity IDE.jpg" alt="Antigravity IDE" width="400" />
-<img src="Day-01/Antigravity CLI.jpg" alt="Antigravity CLI" width="400" />
+<img src="Day-01/Antigravity.jpg" alt="Antigravity" width="700" />
+<img src="Day-01/Antigravity IDE.jpg" alt="Antigravity IDE" width="700" />
+<img src="Day-01/Antigravity CLI.jpg" alt="Antigravity CLI" width="700" />
 
-<p align="center">
-  <img src="Day-01/Ass1-1.jpg" alt="Ass1-1" width="400" height="250" />
-  <img src="Day-01/Ass1-2.jpg" alt="Ass1-2" width="400" height="250" />
-</p>
-
-<p align="center">
-  <img src="Day-01/Ass1-3.jpg" alt="Ass1-3" width="400" height="250" />
-  <img src="Day-01/Antigravity CLI.jpg" alt="Antigravity CLI" width="400" height="250" />
-</p>
-
-<p align="center">
-  <img src="Day-01/Antigravity.jpg" alt="Antigravity" width="400" height="250" />
-  <img src="Day-01/Antigravity IDE.jpg" alt="Antigravity IDE" width="400" height="250" />
-</p>
