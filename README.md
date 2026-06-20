@@ -72,7 +72,7 @@ Day 3 shifted from tools and protocols to Agent Skills: reusable, directory‑ba
 - Progressive disclosure of skills (avoiding tool bloat)
 - Evaluation‑Driven Development (EDD)
 
-<img src="Day-03/Ass3-1.jpg" alt="Ass3-1" width="700" />
+<img src="Day-03/Ass3-1.png" alt="Ass3-1" width="700" />
 
 ## Day4: Vibe Coding Security and Evaluation                                                                                                                                        
 **Podcast:** https://www.youtube.com/watch?v=Ddz1b8CYPvg                                                                                                                                       
