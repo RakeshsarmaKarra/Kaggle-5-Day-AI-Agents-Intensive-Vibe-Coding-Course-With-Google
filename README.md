@@ -7,8 +7,8 @@
 
 ## Daywise Assignments, Materials, Labs and my practice screenshots
 [Live sessions](https://www.youtube.com/watch?v=7iic3Zj427M&list=PLqFaTIg4myu8AFXUjrVhDkUGp0A9kK8CX&index=2)                             
-[Website / Course Info](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/overview)
-[Link](https://github.com/RakeshsarmaKarra/Kaggle-5-Day-AI-Agents-Intensive-Vibe-Coding-Course-With-Google/blob/main/Kaggle_5_Days_Intensive_Course.ipynb)                            
+[Website / Course Info](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/overview)                                                                                                          
+[Link](https://github.com/RakeshsarmaKarra/Kaggle-5-Day-AI-Agents-Intensive-Vibe-Coding-Course-With-Google/blob/main/Kaggle_5_Days_Intensive_Course.ipynb)                                                    
 
 ## Day1: Introduction to Agents & Vibe Coding. 
 **Podcast:**  https://www.youtube.com/watch?v=cbzmr7vt4XA                                                                                                                                
