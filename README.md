@@ -8,6 +8,7 @@
 ## Daywise Assignments, Materials, Labs and my practice screenshots
 [Live sessions](https://www.youtube.com/watch?v=7iic3Zj427M&list=PLqFaTIg4myu8AFXUjrVhDkUGp0A9kK8CX&index=2)                             
 [Website / Course Info](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/overview)
+[Link](https://github.com/RakeshsarmaKarra/Kaggle-5-Day-AI-Agents-Intensive-Vibe-Coding-Course-With-Google/blob/main/Kaggle_5_Days_Intensive_Course.ipynb)                            
 
 ## Day1: Introduction to Agents & Vibe Coding. 
 **Podcast:**  https://www.youtube.com/watch?v=cbzmr7vt4XA                                                                                                                                
@@ -112,4 +113,14 @@ Day 5 connected everything back to shipping production systems, contrasting fast
 ## Capstone Project: 
 https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/discussion/709721
 Note: I will update my cpstone project once I submit to the event.
+
+## Lessons Learned:                                                                                                                                       
+I learned how to design agents end‑to‑end—defining instructions, context, tools, and guardrails—rather than treating them as simple LLM prompts.                                                      
+I gained hands‑on experience using MCP, Antigravity IDE/CLI, and Agent Skills to let agents call tools, follow step‑by‑step procedures, and interoperate with real systems.                                                      
+I understood how to secure and evaluate agents with EDD, vibe‑coding guardrails, and spec‑driven workflows so they can be deployed to managed runtimes and front‑end apps with production‑grade reliability.                           
+
+## Badges:                                                                                                                                                                                             
+https://developers.google.com/profile/badges/events/cloud/five-day-ai-agents?u=RakeshsarmaKarra                                                                                                                                       
+https://developers.google.com/profile/badges/recognitions/learnings?u=RakeshsarmaKarra                                                                                 
+
 
