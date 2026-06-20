@@ -110,14 +110,13 @@ Day 5 connected everything back to shipping production systems, contrasting fast
 <img src="Day-05/Asst5-1.jpg" alt="Ass5-1" width="700" />
 <img src="Day-05/Ass5-2.jpg" alt="Ass5-2" width="700" />
 
-## Capstone Project: 
+## Capstone Project (In progress): 
 https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/discussion/709721
-Note: I will update my cpstone project once I submit to the event.
-
+                                                                                                                                                                        
 ## Lessons Learned:                                                                                                                                       
-I learned how to design agents end‑to‑end—defining instructions, context, tools, and guardrails—rather than treating them as simple LLM prompts.                                                      
-I gained hands‑on experience using MCP, Antigravity IDE/CLI, and Agent Skills to let agents call tools, follow step‑by‑step procedures, and interoperate with real systems.                                                      
-I understood how to secure and evaluate agents with EDD, vibe‑coding guardrails, and spec‑driven workflows so they can be deployed to managed runtimes and front‑end apps with production‑grade reliability.                           
+- I learned how to design agents end‑to‑end—defining instructions, context, tools, and guardrails—rather than treating them as simple LLM prompts.                                                      
+- I gained hands‑on experience using MCP, Antigravity IDE/CLI, and Agent Skills to let agents call tools, follow step‑by‑step procedures, and interoperate with real systems.                                                      
+- I understood how to secure and evaluate agents with EDD, vibe‑coding guardrails, and spec‑driven workflows so they can be deployed to managed runtimes and front‑end apps with production‑grade reliability.                           
 
 ## Badges:                                                                                                                                                                                             
 https://developers.google.com/profile/badges/events/cloud/five-day-ai-agents?u=RakeshsarmaKarra                                                                                                                                       
